@@ -9,8 +9,8 @@
     <android.support.constraint.ConstraintLayout
         android:layout_width="589dp"
         android:layout_height="813dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp">
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
 
         <Button
             android:id="@+id/button"
@@ -26,7 +26,7 @@
             android:id="@+id/textView"
             android:layout_width="275dp"
             android:layout_height="32dp"
-            android:layout_marginTop="88dp"
+            android:layout_marginTop="96dp"
             android:fontFamily="casual"
             android:text="Biodata"
             android:textAlignment="center"
@@ -35,7 +35,7 @@
             android:textStyle="bold"
             android:typeface="monospace"
             app:layout_constraintTop_toTopOf="parent"
-            tools:layout_editor_absoluteX="157dp" />
+            tools:layout_editor_absoluteX="62dp" />
 
         <EditText
             android:id="@+id/editText4"
@@ -45,8 +45,8 @@
             android:inputType="textPersonName"
             android:text="Name"
             android:textSize="20sp"
-            tools:layout_editor_absoluteX="187dp"
-            tools:layout_editor_absoluteY="204dp" />
+            tools:layout_editor_absoluteX="79dp"
+            tools:layout_editor_absoluteY="180dp" />
 
         <EditText
             android:id="@+id/editText5"
@@ -56,8 +56,8 @@
             android:inputType="textPersonName"
             android:text="Alamat"
             android:textSize="20sp"
-            tools:layout_editor_absoluteX="187dp"
-            tools:layout_editor_absoluteY="308dp" />
+            tools:layout_editor_absoluteX="79dp"
+            tools:layout_editor_absoluteY="268dp" />
 
         <EditText
             android:id="@+id/editText6"
@@ -67,8 +67,8 @@
             android:inputType="textPersonName"
             android:text="Telp"
             android:textSize="20sp"
-            tools:layout_editor_absoluteX="187dp"
-            tools:layout_editor_absoluteY="417dp" />
+            tools:layout_editor_absoluteX="79dp"
+            tools:layout_editor_absoluteY="369dp" />
 
     </android.support.constraint.ConstraintLayout>
 
