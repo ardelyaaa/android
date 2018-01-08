@@ -54,7 +54,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name"
+            android:text="Alamat"
             android:textSize="20sp"
             tools:layout_editor_absoluteX="187dp"
             tools:layout_editor_absoluteY="308dp" />
@@ -62,13 +62,13 @@
         <EditText
             android:id="@+id/editText6"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="47dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name"
+            android:text="Telp"
             android:textSize="20sp"
             tools:layout_editor_absoluteX="187dp"
-            tools:layout_editor_absoluteY="416dp" />
+            tools:layout_editor_absoluteY="417dp" />
 
     </android.support.constraint.ConstraintLayout>
 
